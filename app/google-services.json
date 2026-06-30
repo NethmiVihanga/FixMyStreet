@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "565982105669",
+    "project_id": "fix-my-street-632fe",
+    "storage_bucket": "fix-my-street-632fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565982105669:android:3f287d8f8a1c4b1aee932c",
+        "android_client_info": {
+          "package_name": "com.fixmystreet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565982105669-lnabugh468iq4hpjua1v4jf6e8mablj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fixmystreet",
+            "certificate_hash": "6316fecc3e29a944075787e270db0707b5d4ea11"
+          }
+        },
+        {
+          "client_id": "565982105669-49hcal7lc3kmeauh4fkld013n7up5fap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUpQxNPQuXOB6jnsPZVU7g4FIY7L8LBXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565982105669-49hcal7lc3kmeauh4fkld013n7up5fap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
