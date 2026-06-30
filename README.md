@@ -1,8 +1,8 @@
-# 🏙️ FixMyStreet
+# FixMyStreet
 
 FixMyStreet is a modern Android application designed to empower citizens to report, track, and resolve local community and infrastructure issues. Whether it's a pothole, broken streetlight, or illegal dumping, FixMyStreet helps connect residents with local authorities to keep their neighborhoods safe and clean.
 
-## ✨ Key Features
+## Key Features
 
 - **User Authentication:** Secure signup, login, OTP verification, and password reset functionalities.
 - **Report Issues:** Easily report local problems with descriptions, categories, and severity.
@@ -13,7 +13,7 @@ FixMyStreet is a modern Android application designed to empower citizens to repo
 - **Donations:** Support community initiatives through an integrated secure card payment system.
 - **Profile Management:** Edit user profiles and manage personal settings.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Platform:** Android
 - **Language:** [Kotlin](https://kotlinlang.org/)
@@ -21,7 +21,7 @@ FixMyStreet is a modern Android application designed to empower citizens to repo
 - **Architecture:** MVVM (Model-View-ViewModel)
 - **Build System:** Gradle (Kotlin DSL)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -39,16 +39,17 @@ FixMyStreet is a modern Android application designed to empower citizens to repo
 3. Let Gradle sync and download all necessary dependencies.
 4. Build and run the app on an Android emulator or a connected physical device.
 
-## 📱 App Screens Structure
+## App Screens Structure
+
 - **Onboarding & Auth:** Splash, Onboarding, Login, Signup, OTP Verify, Forgot Password.
 - **Core Features:** Home, Issue List, Issue Details, Report Issue, Location Picker, Photo Upload.
 - **Engagement:** Comments, Notifications, Donate, Card Payment.
 - **User:** Profile, Edit Profile, About Us.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## 📄 License
+## License
 
 This project is open-source and available for use and modification.
